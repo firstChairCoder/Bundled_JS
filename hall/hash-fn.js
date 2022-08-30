@@ -10,3 +10,5 @@ var myRequestParams = {
 var hashSecret='C0DF9A7B3819968807A9D4E48D0E65C6';
 
 var secureHash = vapulusHash.generateHash(hashSecret,myRequestParams);
+
+console.log(hash)

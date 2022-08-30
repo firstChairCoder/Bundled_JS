@@ -1,0 +1,7 @@
+{
+  "name": "Bundled",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "vapulus-hashing-pkg": "1.0.3"
+  }
+}
